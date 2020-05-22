@@ -13,6 +13,7 @@ $links = array(
     'tasks' => 'https://jira.tcmaker.org/jira',
     'floorplan' => 'https://wiki.tcmaker.org/about_us/shop_floorplan/start',
     'dashboard' => 'https://clubhouse.tcmaker.org/'
+    'youtube' => 'https://www.youtube.com/user/twincitiesmaker/'
 );
 
 function process_lookup($links) {
